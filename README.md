@@ -9,7 +9,7 @@
 - [Percona Server MySQL (Docker + Debian)](https://github.com/cesartomita/psmysql-js-programs)
 ### Docker
 - [TOTVS Fluig com Docker (Ambiente de desenvolvimento)](https://github.com/cesartomita/totvs-fluig-dev-docker)
-
+---
 <div align="center">
   <a href="https://github.com/cesartomita">
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesartomita"/>
