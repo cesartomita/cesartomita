@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Projetos
 ### SQL Server
 - [SQL Server - Meu guia prático](https://github.com/cesartomita/sql-server-meu-guia-pratico)
@@ -17,6 +15,8 @@
 </div>
 
 <!--
+## Hi there 👋
+
 **cesartomita/cesartomita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
