@@ -10,7 +10,7 @@
 ---
 <div align="center">
   <a href="https://github.com/cesartomita">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesartomita"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesartomita"/>
   </a>
 </div>
 
