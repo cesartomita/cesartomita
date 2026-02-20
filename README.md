@@ -8,6 +8,8 @@
 - [Percona Server MySQL - Testes de performance usando JS Programs](https://github.com/cesartomita/psmysql-js-programs)
 ### Docker
 - [TOTVS Fluig com Docker (Ambiente de desenvolvimento)](https://github.com/cesartomita/totvs-fluig-dev-docker)
+### Leetcode
+- [SQL 50 - Crack SQL Interview in 50 Qs](https://github.com/cesartomita/leetcode-sql-50)
 
 <!--
 <div align="center">
