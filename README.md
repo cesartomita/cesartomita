@@ -8,6 +8,7 @@
 - [SQL Server com AdventureWorks no Docker](https://github.com/cesartomita/sql-server-dev-docker)
 - [TOTVS Fluig com Docker (Ambiente de desenvolvimento)](https://github.com/cesartomita/totvs-fluig-dev-docker)
 - [SQL 50 - Crack SQL Interview in 50 Qs](https://github.com/cesartomita/leetcode-sql-50)
+- [HackerRank - SQL](https://github.com/cesartomita/hackerrank-sql)
 
 <!--
 <div align="center">
